@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "new_nbdev2"
+  site-url: "https://hamelsmu.github.io/new_nbdev2"
+  description: "foo"
+  repo-branch: main
+  repo-url: "https://github.com/hamelsmu/new_nbdev2"
